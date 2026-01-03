@@ -2,6 +2,11 @@
 
 My personal dotfiles for CachyOS with Hyprland.
 
+<img width="848" height="647" alt="image" src="https://github.com/user-attachments/assets/1076f3dc-18db-449d-ac73-0f7d2421eb1b" />
+
+<img width="3439" height="1439" alt="image" src="https://github.com/user-attachments/assets/dac18ee9-af9a-44ed-93ab-6b792a3dc646" />
+
+
 ## 🖥️ Stack
 
 - **OS**: CachyOS
